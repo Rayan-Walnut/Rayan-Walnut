@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rayan-Walnut
+- 👀 I’m interested in Code
+- 🌱 I’m currently learning C++
